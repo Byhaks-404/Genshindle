@@ -8,6 +8,7 @@ class Personaje:
         self.model_Type = model_Type
         self.quality = quality
 
+
 Albedo = Personaje('Mondstadt', 'Sword', 'Geo', 'Male', '5' )
 Alhaitham = Personaje('Sumeru', 'Sword', 'Dendro', 'Male', '5')
 Aloy = Personaje('None', 'Bow', 'Cryo', 'Female', '5')
